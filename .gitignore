@@ -3,3 +3,11 @@
 
 # Environment files
 .env
+
+# Datasets
+train.*
+test.*
+sample_submission.*
+
+# Virtual Environments
+.venv
