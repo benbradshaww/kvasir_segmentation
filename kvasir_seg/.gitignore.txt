@@ -2,3 +2,6 @@
 train/
 valid/
 test/
+
+# Ignore model checkpoints
+model_checkpoints/
