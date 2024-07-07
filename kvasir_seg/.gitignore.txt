@@ -1,0 +1,4 @@
+# Ignore data
+train/
+valid/
+test/
